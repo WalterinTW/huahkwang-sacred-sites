@@ -69,13 +69,14 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 4_靈鷲山_3.jpeg | `rajgir-hero.jpeg` | 靈鷲山岩石與藍天；caption：靈鷲山一景 |
-| gallery | 4_靈鷲山_4.jpeg | `rajgir-01.jpeg` | 靈鷲山山徑與遠景；caption：靈鷲山山徑與遠景 |
-| gallery | 4_竹林精舍_0.jpeg | `rajgir-02.jpeg` | 竹林精舍園區與池畔；caption：竹林精舍園區 |
-| gallery | 4_竹林精舍_1.jpeg | `rajgir-03.jpeg` | 竹林精舍清淨庭園；caption：竹林精舍庭園 |
-| gallery | 4_那爛陀大學.jpeg | `rajgir-04.jpeg` | 那爛陀大學遺址磚石建築；caption：那爛陀大學遺址 |
+| hero | 4_靈鷲山_2.jpeg | `rajgir-hero.jpeg` | 靈鷲山說法台與落日；採用更具代表性的靈山講法台，頁面以完整顯示並調亮處理 |
+| gallery | 4_靈鷲山_3.jpeg | `rajgir-01.jpeg` | 說法台遠望靈鷲石；caption：說法台遠望 - 靈鷲石 |
+| gallery | 4_靈鷲山_4.jpeg | `rajgir-02.jpeg` | 古時阿羅漢修行山洞與靈鷲山山徑；caption：古時阿羅漢修行山洞 與 靈鷲山山徑 |
+| gallery | 4_靈鷲山_0.jpeg | `rajgir-03.jpeg` | 靈鷲山徑朝山；caption：靈鷲山徑 - 朝山 |
+| gallery | 4_竹林精舍_3.jpeg | `rajgir-04.jpeg` | 頻婆娑羅王供養之竹林精舍施無畏印佛像；caption：頻婆娑羅王供養之竹林精舍 - 施無畏印 佛像 一景 |
+| gallery | 4_那爛陀大學.jpeg | `rajgir-05.jpeg` | 王舍城那爛陀大學一景；caption：王舍城 - 那爛陀大學一景 |
 
-未使用照片：`4_竹林精舍_2.jpeg`、`4_竹林精舍_3.jpeg`、`4_靈鷲山_0.jpeg`、`4_靈鷲山_1.jpeg`、`4_靈鷲山_2.jpeg`。原因：角度重複、畫質或構圖較弱，或本頁版面照片數量已足夠。
+未使用照片：`4_竹林精舍_0.jpeg`、`4_竹林精舍_1.jpeg`、`4_竹林精舍_2.jpeg`、`4_靈鷲山_1.jpeg`。原因：角度重複、畫質或構圖較弱，或本頁版面照片數量已足夠。
 
 ## 5. 舍衛城與祇樹給孤獨園
 
