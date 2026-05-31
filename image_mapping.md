@@ -33,9 +33,9 @@ huahkwang-sacred-sites/assets/images/
 | hero | 1_藍毗尼園_1.jpeg | `lumbini-hero.jpeg` | 藍毘尼園聖池與摩耶夫人廟遠景；caption：藍毘尼園聖池與摩耶夫人廟 |
 | gallery | 1_藍毗尼園_0.jpeg | `lumbini-01.jpeg` | 藍毗尼園內悉達多太子像；caption：藍毗尼園內 悉達多太子像 |
 | gallery | 1_藍毗尼園_4.jpeg | `lumbini-02.jpeg` | 藍毗尼園阿育王石柱與底座；caption：藍毗尼園最重要歷史證據之一：阿育王石柱 |
-| gallery | 1_藍毗尼園_5.jpeg | `lumbini-03.jpeg` | 藍毘尼園池畔與朝禮空間；caption：藍毘尼園池畔空間 |
+| gallery | 1_藍毗尼園_2.jpeg | `lumbini-03.jpeg` | 摩耶夫人祠外祈福小佛塔；caption：摩耶夫人祠外 - 祈福小佛塔 |
 
-未使用照片：`1_藍毗尼園_2.jpeg`、`1_藍毗尼園_3.jpeg`。原因：角度重複、畫質或構圖較弱，或本頁版面照片數量已足夠。
+未使用照片：`1_藍毗尼園_3.jpeg`、`1_藍毗尼園_5.jpeg`。原因：角度重複、畫質或構圖較弱，或本頁版面照片數量已足夠。
 
 ## 2. 菩提伽耶｜佛陀成道
 
