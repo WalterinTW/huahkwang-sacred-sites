@@ -37,6 +37,7 @@ a { color: inherit; }
 .hero-image { object-fit: cover; }
 .hero-image.hero-image-contain { object-fit: contain; background: #241f19; }
 .hero-image.hero-image-bright { filter: brightness(1.48) contrast(1.08) saturate(1.08); }
+.hero-image.hero-image-focus-low { object-position: center 72%; }
 .hero-overlay { background: linear-gradient(90deg, rgba(40,33,26,0.76), rgba(40,33,26,0.38) 58%, rgba(40,33,26,0.2)), linear-gradient(0deg, rgba(40,33,26,0.48), rgba(40,33,26,0.08)); }
 .hero-overlay.hero-overlay-light { background: linear-gradient(90deg, rgba(40,33,26,0.48), rgba(40,33,26,0.2) 58%, rgba(40,33,26,0.08)), linear-gradient(0deg, rgba(40,33,26,0.22), rgba(40,33,26,0.02)); }
 .hero-content { position: relative; z-index: 1; padding: 0 0 88px; }

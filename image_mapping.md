@@ -84,12 +84,14 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 5_祇樹給孤獨園_0.jpeg | `shravasti-hero.jpeg` | 舍衛城祇樹給孤獨園晨光中的遺址與朝禮者；caption：祇樹給孤獨園遺址 |
-| gallery | 5_祇樹給孤獨園_1.jpeg | `shravasti-01.jpeg` | 祇樹給孤獨園遺址與朝禮路徑；caption：祇樹給孤獨園遺址路徑 |
-| gallery | 5_祇樹給孤獨園_2.jpeg | `shravasti-02.jpeg` | 祇樹給孤獨園樹木與聖地空間；caption：祇樹給孤獨園樹下空間 |
-| gallery | 5_祇樹給孤獨園_3.jpeg | `shravasti-03.jpeg` | 祇樹給孤獨園遺址寬景；caption：祇樹給孤獨園遺址寬景 |
+| hero | 5_祇樹給孤獨園_0.jpeg | `shravasti-hero.jpeg` | 舍衛城祇樹給孤獨園晨光中的遺址與朝禮者；頁面以較低取景、調亮與淡遮罩處理，讓祇園精舍遺跡更清楚 |
+| gallery | 5_祇樹給孤獨園_1.jpeg | `shravasti-01.jpeg` | 佛陀的起居室祇園精舍香室遺址；caption：佛陀的起居室：祇園精舍-香室 遺址。 |
+| gallery | 5_祇樹給孤獨園_4.jpeg | `shravasti-02.jpeg` | 香室附近的阿難菩提樹；caption：香室附近的 阿難菩提樹 |
+| gallery | 5_祇樹給孤獨園_0.jpeg | `shravasti-03.jpeg` | 祈園精舍繞塔朝山；caption：祈園精舍 - 繞塔朝山 |
+| gallery | 5_祇樹給孤獨園_5.jpeg | `shravasti-04.jpeg` | 祈園精舍遺址上修行者晨間用功；caption：祈園精舍遺址上 - 修行者晨間用功 |
+| gallery | 5_祇樹給孤獨園_6.jpeg | `shravasti-05.jpeg` | 祇樹給孤獨園共修講經一隅；caption：祇樹給孤獨園 - 共修講經一隅 |
 
-未使用照片：無。
+未使用照片：`5_祇樹給孤獨園_2.jpeg`、`5_祇樹給孤獨園_3.jpeg`。原因：新版 gallery 已依指定照片呈現，版面照片數量已足夠。
 
 ## 6. 僧伽施｜佛陀自忉利天下降處
 
