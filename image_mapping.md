@@ -43,8 +43,8 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 2_菩提伽耶_0.jpeg | `bodhgaya-hero.jpeg` | 菩提伽耶正覺大塔與朝禮區域；caption：菩提伽耶正覺大塔一景 |
-| gallery | 2_菩提伽耶_1.jpeg | `bodhgaya-01.jpeg` | 菩提伽耶佛塔與庭園；caption：菩提伽耶庭園與佛塔 |
+| hero | 2_菩提伽耶_1.jpeg | `bodhgaya-hero-temple.jpeg` | 菩提伽耶正覺大塔完整塔身；頁面以完整顯示、調亮、淡遮罩與隱去下方人物區域處理，讓正覺大塔完整露出 |
+| gallery | 2_菩提伽耶_0.jpeg | `bodhgaya-ashoka-pillar.jpeg` | 正覺大塔旁阿育王石柱；caption：正覺大塔旁 阿育王石柱 |
 | gallery | 2_菩提伽耶_2.jpeg | `bodhgaya-02.jpeg` | 菩提伽耶聖地建築細部；caption：菩提伽耶聖地建築細部 |
 | gallery | 2_菩提伽耶_3.jpg | `bodhgaya-03.jpg` | 菩提伽耶朝禮者於供花前禮拜；caption：菩提伽耶朝禮與供花 |
 
