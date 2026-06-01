@@ -22,7 +22,7 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | 選擇理由 |
 |---|---|---|---|
-| 首頁 hero | 0_river_3.jpeg | `overview-river-hero.jpeg` | 由飛機上俯望印度大地與蜿蜒古河道，水面反光象徵印度河域綻放的智慧光芒；採用 A2_1 裁切與局部遮罩設計，保留河道婉轉與反射亮光。 |
+| 首頁 hero | 0_river_4.jpeg | `overview-river-hero.jpeg`、`overview-river-hero-mobile.jpeg` | 由飛機上俯望印度大地與蜿蜒古河道，水面反光象徵印度河域綻放的智慧光芒；採用 A2_1 裁切與局部遮罩設計，桌機使用橫式圖，手機使用直式專用圖以保留上方小河灣與右下反光。 |
 
 ## 1. 藍毘尼園｜佛陀誕生
 
