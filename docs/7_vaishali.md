@@ -124,7 +124,7 @@
 
 ---
 
-**Glossary**
+## Glossary
 
 | 中文 |  梵文 | 巴利文  | 說明 |
 | ----- | ----- | ----- | ----- |
@@ -152,4 +152,3 @@
 | 魔王波旬 | Māra Pāpīyān | Māra Pāpimā | 佛教中象徵障道力量者 |
 | 佛缽 | pātra | patta | 佛陀所用之鉢 |
 | 七葉窟 | Saptaparṇī Cave | Sattapaṇṇi Cave | 第一次結集相關聖地 |
-
