@@ -59,7 +59,7 @@ huahkwang-sacred-sites/assets/images/
 | hero | 3_鹿野苑_2.jpeg | `sarnath-hero.jpeg` | 鹿野苑遺址與綠地遠景；caption：鹿野苑遺址一景 |
 | gallery | 3_鹿野苑_0.jpeg | `sarnath-01.jpeg` | 鹿野苑聖地建築與步道；caption：鹿野苑聖地一景 |
 | gallery | 3_鹿野苑_1.jpeg | `sarnath-02.jpeg` | 鹿野苑塔身與樹影；caption：鹿野苑塔身與園區 |
-| gallery | 3_鹿野苑_3.jpeg | `sarnath-03.jpeg` | 鹿野苑阿育王石柱遺跡展示；caption：鹿野苑阿育王石柱遺跡 |
+| gallery | 3_鹿野苑_3.jpeg | `sarnath-03-compressed.jpeg` | 鹿野苑阿育王石柱遺跡展示；caption：鹿野苑阿育王石柱遺跡；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/sarnath-03.jpeg` |
 
 未使用照片：無。
 
@@ -86,10 +86,10 @@ huahkwang-sacred-sites/assets/images/
 |---|---|---|---|
 | hero | 5_祇樹給孤獨園_0.jpeg | `shravasti-hero.jpeg` | 舍衛城祇樹給孤獨園晨光中的遺址與朝禮者；頁面以較低取景、調亮與淡遮罩處理，讓祇園精舍遺跡更清楚 |
 | gallery | 5_祇樹給孤獨園_1.jpeg | `shravasti-01.jpeg` | 佛陀的起居室祇園精舍香室遺址；caption：佛陀的起居室：祇園精舍-香室 遺址。 |
-| gallery | 5_祇樹給孤獨園_4.jpeg | `shravasti-02.jpeg` | 香室附近的阿難菩提樹；caption：香室附近的 阿難菩提樹 |
+| gallery | 5_祇樹給孤獨園_4.jpeg | `shravasti-02-compressed.jpeg` | 香室附近的阿難菩提樹；caption：香室附近的 阿難菩提樹；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/shravasti-02.jpeg` |
 | gallery | 5_祇樹給孤獨園_0.jpeg | `shravasti-03.jpeg` | 祈園精舍繞塔朝山；caption：祈園精舍 - 繞塔朝山 |
-| gallery | 5_祇樹給孤獨園_5.jpeg | `shravasti-04.jpeg` | 祈園精舍遺址上修行者晨間用功；caption：祈園精舍遺址上 - 修行者晨間用功 |
-| gallery | 5_祇樹給孤獨園_6.jpeg | `shravasti-05.jpeg` | 祇樹給孤獨園共修講經一隅；caption：祇樹給孤獨園 - 共修講經一隅 |
+| gallery | 5_祇樹給孤獨園_5.jpeg | `shravasti-04-compressed.jpeg` | 祈園精舍遺址上修行者晨間用功；caption：祈園精舍遺址上 - 修行者晨間用功；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/shravasti-04.jpeg` |
+| gallery | 5_祇樹給孤獨園_6.jpeg | `shravasti-05-compressed.jpeg` | 祇樹給孤獨園共修講經一隅；caption：祇樹給孤獨園 - 共修講經一隅；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/shravasti-05.jpeg` |
 
 未使用照片：`5_祇樹給孤獨園_2.jpeg`、`5_祇樹給孤獨園_3.jpeg`。原因：新版 gallery 已依指定照片呈現，版面照片數量已足夠。
 
@@ -128,7 +128,7 @@ huahkwang-sacred-sites/assets/images/
 | hero | 8_拘尸那羅_0.jpeg | `kushinagar-hero.jpeg` | 拘尸那羅涅槃塔晨光遠景；caption：拘尸那羅涅槃塔 |
 | gallery | 8_拘尸那羅_1.jpeg | `kushinagar-01.jpeg` | 拘尸那羅涅槃寺與塔身；caption：拘尸那羅涅槃寺與塔 |
 | gallery | 8_拘尸那羅_2.jpeg | `kushinagar-02.jpeg` | 拘尸那羅臥佛像；caption：拘尸那羅臥佛像 |
-| gallery | 8_拘尸那羅_3.jpeg | `kushinagar-03.jpeg` | 拘尸那羅聖地庭園與遺址；caption：拘尸那羅聖地庭園 |
-| gallery | 8_拘尸那羅_4.jpeg | `kushinagar-04.jpeg` | 拘尸那羅遺址與禮拜空間；caption：拘尸那羅遺址一景 |
+| gallery | 8_拘尸那羅_3.jpeg | `kushinagar-03-compressed.jpeg` | 拘尸那羅聖地庭園與遺址；caption：拘尸那羅聖地庭園；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/kushinagar-03.jpeg` |
+| gallery | 8_拘尸那羅_4.jpeg | `kushinagar-04-compressed.jpeg` | 拘尸那羅遺址與禮拜空間；caption：拘尸那羅遺址一景；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/kushinagar-04.jpeg` |
 
 未使用照片：無。
