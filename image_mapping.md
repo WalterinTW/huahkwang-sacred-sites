@@ -71,6 +71,7 @@ huahkwang-sacred-sites/assets/images/
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
 | hero | 4_靈鷲山_2.jpeg | `rajgir-hero.jpeg` | 靈鷲山說法台與落日；採用更具代表性的靈山講法台，頁面以完整顯示並調亮處理 |
+| gallery | 4_靈鷲山_2.jpeg | `rajgir-00.jpeg` | 靈鷲山最頂端佛陀說法台；gallery 專用 4:3 裁切，減少上方天空與下方地面並自然調亮；caption：靈鷲山 最頂端、最神聖的 佛陀說法台。 佛陀在此宣說《妙法蓮華經》、《無量壽經》等諸多大乘重要經典。 |
 | gallery | 4_靈鷲山_3.jpeg | `rajgir-01.jpeg` | 說法台遠望靈鷲石；caption：說法台遠望 - 靈鷲石 |
 | gallery | 4_靈鷲山_4.jpeg | `rajgir-02.jpeg` | 古時阿羅漢修行山洞與靈鷲山山徑；caption：古時阿羅漢修行山洞 與 靈鷲山山徑 |
 | gallery | 4_靈鷲山_0.jpeg | `rajgir-03.jpeg` | 靈鷲山徑朝山；caption：靈鷲山徑 - 朝山 |
