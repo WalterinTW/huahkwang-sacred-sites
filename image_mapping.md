@@ -99,10 +99,10 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 6_僧伽施_0 .jpeg | `sankassa-hero.jpeg` | 僧伽施象柱遺跡亭閣；caption：僧伽施象柱遺跡 |
-| gallery | 6_僧伽施_1.jpeg | `sankassa-01.jpeg` | 僧伽施聖地遺跡與樹木；caption：僧伽施聖地一景 |
-| gallery | 6_僧伽施_2.jpeg | `sankassa-02.jpeg` | 僧伽施遺址近景；caption：僧伽施遺址近景 |
-| gallery | 6_僧伽施_3.jpeg | `sankassa-03.jpeg` | 僧伽施聖地周邊景觀；caption：僧伽施周邊景觀 |
+| hero | 6_僧伽施_0 .jpeg | `sankassa-hero.jpeg`、`sankassa-hero-mobile.jpeg` | 僧伽施象柱遺跡亭閣；桌機與手機分別使用安全構圖，並做自然調亮與去迷濛處理 |
+| gallery | 6_僧伽施_2.jpeg | `sankassa-01.jpeg` | 阿育王石柱的大象柱頭；caption：阿育王石柱的大象柱頭 |
+| gallery | 6_僧伽施_3.jpeg | `sankassa-02.jpeg` | 僧伽施佛龕與聖菩提樹；caption：佛龕 與 聖菩提樹 |
+| gallery | 6_僧伽施_1.jpeg | `sankassa-03.jpeg` | 僧伽施原始佛塔大土丘頂部畢薩里德維神廟；caption：原始佛塔大土丘頂部 - 畢薩里德維神廟 |
 
 未使用照片：無。
 
