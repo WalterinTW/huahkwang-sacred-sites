@@ -125,10 +125,10 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 8_拘尸那羅_0.jpeg | `kushinagar-hero.jpeg` | 拘尸那羅涅槃塔晨光遠景；caption：拘尸那羅涅槃塔 |
-| gallery | 8_拘尸那羅_1.jpeg | `kushinagar-01.jpeg` | 拘尸那羅涅槃寺與塔身；caption：拘尸那羅涅槃寺與塔 |
-| gallery | 8_拘尸那羅_2.jpeg | `kushinagar-02.jpeg` | 拘尸那羅臥佛像；caption：拘尸那羅臥佛像 |
-| gallery | 8_拘尸那羅_3.jpeg | `kushinagar-03-compressed.jpeg` | 拘尸那羅聖地庭園與遺址；caption：拘尸那羅聖地庭園；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/kushinagar-03.jpeg` |
-| gallery | 8_拘尸那羅_4.jpeg | `kushinagar-04-compressed.jpeg` | 拘尸那羅遺址與禮拜空間；caption：拘尸那羅遺址一景；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/kushinagar-04.jpeg` |
+| hero | 8_拘尸那羅_2.jpeg | `kushinagar-hero.jpeg`、`kushinagar-hero-mobile.jpeg` | 大涅槃寺與後方大涅槃塔；桌機與手機分別使用安全邊界構圖、自然調亮與淡遮罩處理，確保整個建築物與高高底座完整露出 |
+| gallery | 8_拘尸那羅_2.jpeg | `kushinagar-01.jpeg` | 遠望大涅槃寺與其後方的大涅槃塔；以完整顯示處理，避免建築物與高底座被裁切 |
+| gallery | 8_拘尸那羅_6.jpeg | `kushinagar-02.jpeg` | 大涅槃寺內佛陀大涅槃臥佛像頭部特寫；以完整顯示處理，保留整個頭部特寫 |
+| gallery | 8_拘尸那羅_0.jpeg | `kushinagar-03.jpeg` | 距大涅槃寺約1.5 公里的佛陀荼毘聖地遺址；以完整顯示處理，保留寬廣視野 |
+| gallery | 8_拘尸那羅_5.jpeg | `kushinagar-04.jpeg` | 大涅槃寺周邊的僧院遺蹟群；以完整顯示處理，保留遺跡全貌 |
 
-未使用照片：無。
+未使用照片：`8_拘尸那羅_1.jpeg`、`8_拘尸那羅_3.jpeg`、`8_拘尸那羅_4.jpeg`、`8_拘尸那羅_7.jpeg`。原因：新版 hero 與 gallery 已依指定照片呈現，版面照片數量已足夠。
