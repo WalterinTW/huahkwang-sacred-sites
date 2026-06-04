@@ -44,6 +44,7 @@ huahkwang-sacred-sites/assets/images/
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
 | hero | 2_菩提伽耶_1.jpeg | `bodhgaya-hero-temple.jpeg` | 菩提伽耶正覺大塔完整塔身；頁面以完整顯示、調亮、淡遮罩與隱去下方人物區域處理，讓正覺大塔完整露出 |
+| 首頁卡片 | 2_菩提伽耶_1.jpeg | `bodhgaya-card.jpeg`、`bodhgaya-card-mobile.jpeg` | 首頁八大聖地卡片專用 4:3 構圖；桌機與手機分別使用安全邊界，讓正覺大塔塔尖與塔身不被卡片裁切 |
 | gallery | 2_菩提伽耶_0.jpeg | `bodhgaya-ashoka-pillar.jpeg` | 正覺大塔旁阿育王石柱；caption：正覺大塔旁 阿育王石柱 |
 | gallery | 2_菩提伽耶_2.jpeg | `bodhgaya-02.jpeg` | 菩提伽耶聖地建築細部；caption：菩提伽耶聖地建築細部 |
 | gallery | 2_菩提伽耶_3.jpg | `bodhgaya-03.jpg` | 菩提伽耶朝禮者於供花前禮拜；caption：菩提伽耶朝禮與供花 |
@@ -113,6 +114,7 @@ huahkwang-sacred-sites/assets/images/
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
 | hero | 7_吠舍離_4.jpeg | `vaishali-hero.jpeg`、`vaishali-hero-mobile.jpeg` | 吠舍離佛舍利塔與阿育王石柱；桌機與手機分別使用安全邊界構圖、自然調亮與淡遮罩處理，確保佛舍利塔與阿育王石柱完整露出 |
+| 首頁卡片 | 7_吠舍離_4.jpeg | `vaishali-card.jpeg`、`vaishali-card-mobile.jpeg` | 首頁八大聖地卡片專用 4:3 構圖；桌機與手機分別使用安全邊界，讓佛塔與阿育王石柱完整留在畫面內，不貼近卡片邊緣 |
 | gallery | 7_吠舍離_2jpeg.jpeg | `vaishali-01.jpeg` | 大林精舍遺址遠景，可見阿難尊者舍利塔、阿育王石柱與周邊遺址；caption：大林精舍遺址 - 阿難尊者舍利塔 和 阿育王石柱 |
 | gallery | 7_吠舍離_0.jpeg | `vaishali-02.jpeg` | 離車族佛陀真身舍利塔遺跡；以完整顯示處理，避免超寬圖在 gallery 中被裁切；caption：西元1958年考古學家挖掘發現 - 離車族佛陀真身舍利塔遺跡 |
 | gallery | 7_吠舍離_3.jpeg | `vaishali-03.jpeg` | 佛陀正見博物館與兩側入口牌樓；caption：佛陀正見博物館 - 佛陀真身舍利現今安奉處 |
