@@ -84,8 +84,8 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 5_祇樹給孤獨園_0.jpeg | `shravasti-hero.jpeg` | 舍衛城祇樹給孤獨園晨光中的遺址與朝禮者；頁面以較低取景、調亮與淡遮罩處理，讓祇園精舍遺跡更清楚 |
-| gallery | 5_祇樹給孤獨園_1.jpeg | `shravasti-01.jpeg` | 佛陀的起居室祇園精舍香室遺址；caption：佛陀的起居室：祇園精舍-香室 遺址。 |
+| hero | 5_祇樹給孤獨園_1.jpeg | `shravasti-hero.jpeg` | 祇園精舍香室前貼金小塔遺跡；頁面以自然調亮與淡遮罩處理，讓香室前貼金小塔與磚造遺跡更清楚 |
+| gallery | 5_祇樹給孤獨園_7.jpeg | `shravasti-01.jpeg` | 佛陀的起居室祇園精舍香室遺址；caption：佛陀的起居室：祇園精舍-香室 遺址。 |
 | gallery | 5_祇樹給孤獨園_4.jpeg | `shravasti-02-compressed.jpeg` | 香室附近的阿難菩提樹；caption：香室附近的 阿難菩提樹；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/shravasti-02.jpeg` |
 | gallery | 5_祇樹給孤獨園_0.jpeg | `shravasti-03.jpeg` | 祈園精舍繞塔朝山；caption：祈園精舍 - 繞塔朝山 |
 | gallery | 5_祇樹給孤獨園_5.jpeg | `shravasti-04-compressed.jpeg` | 祈園精舍遺址上修行者晨間用功；caption：祈園精舍遺址上 - 修行者晨間用功；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/shravasti-04.jpeg` |
@@ -112,12 +112,12 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 7_吠舍離_0.jpeg | `vaishali-hero.jpeg` | 吠舍離寬廣遺址與佛塔；caption：吠舍離遺址遠景 |
-| gallery | 7_吠舍離_1.jpeg | `vaishali-01.jpeg` | 吠舍離阿育王石柱與遺址；caption：吠舍離阿育王石柱 |
-| gallery | 7_吠舍離_2jpeg.jpeg | `vaishali-02.jpeg` | 吠舍離遺址磚石建築；caption：吠舍離遺址一景 |
-| gallery | 7_吠舍離_3.jpeg | `vaishali-03.jpeg` | 吠舍離遺址與草地；caption：吠舍離遺址與草地 |
+| hero | 7_吠舍離_4.jpeg | `vaishali-hero.jpeg`、`vaishali-hero-mobile.jpeg` | 吠舍離佛舍利塔與阿育王石柱；桌機與手機分別使用安全邊界構圖、自然調亮與淡遮罩處理，確保佛舍利塔與阿育王石柱完整露出 |
+| gallery | 7_吠舍離_2jpeg.jpeg | `vaishali-01.jpeg` | 大林精舍遺址遠景，可見阿難尊者舍利塔、阿育王石柱與周邊遺址；caption：大林精舍遺址 - 阿難尊者舍利塔 和 阿育王石柱 |
+| gallery | 7_吠舍離_0.jpeg | `vaishali-02.jpeg` | 離車族佛陀真身舍利塔遺跡；以完整顯示處理，避免超寬圖在 gallery 中被裁切；caption：西元1958年考古學家挖掘發現 - 離車族佛陀真身舍利塔遺跡 |
+| gallery | 7_吠舍離_3.jpeg | `vaishali-03.jpeg` | 佛陀正見博物館與兩側入口牌樓；caption：佛陀正見博物館 - 佛陀真身舍利現今安奉處 |
 
-未使用照片：無。
+未使用照片：`7_吠舍離_1.jpeg`。原因：新版 hero 與 gallery 已依指定照片呈現，版面照片數量已足夠。
 
 ## 8. 拘尸那羅｜佛陀涅槃
 
