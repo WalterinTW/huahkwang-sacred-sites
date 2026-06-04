@@ -56,12 +56,12 @@ huahkwang-sacred-sites/assets/images/
 
 | 用途 | 原始檔名 | 輸出檔名 | alt / caption 備註 |
 |---|---|---|---|
-| hero | 3_鹿野苑_2.jpeg | `sarnath-hero.jpeg` | 鹿野苑遺址與綠地遠景；caption：鹿野苑遺址一景 |
-| gallery | 3_鹿野苑_0.jpeg | `sarnath-01.jpeg` | 鹿野苑聖地建築與步道；caption：鹿野苑聖地一景 |
-| gallery | 3_鹿野苑_1.jpeg | `sarnath-02.jpeg` | 鹿野苑塔身與樹影；caption：鹿野苑塔身與園區 |
-| gallery | 3_鹿野苑_3.jpeg | `sarnath-03-compressed.jpeg` | 鹿野苑阿育王石柱遺跡展示；caption：鹿野苑阿育王石柱遺跡；正式頁使用壓縮版，原始高解析圖保留於 `assets/images/sarnath-03.jpeg` |
+| hero | 3_鹿野苑_2.jpeg | `sarnath-hero.jpeg`、`sarnath-hero-mobile.jpeg` | 鹿野苑達美克佛塔遺址；只做自然調亮與去迷濛處理，不移除人物、不改變場景與視角 |
+| gallery | 3_鹿野苑_2.jpeg | `sarnath-01.jpeg`、`sarnath-dhamek-stupa-bright.jpeg` | 鹿野苑達美克佛塔遺址；caption：可追溯至西元前3世紀的阿育王時期建立宏偉佛塔遺址；`sarnath-dhamek-stupa-bright.jpeg` 為同張照片的調亮版，方便下載使用 |
+| gallery | 3_鹿野苑_1.jpeg | `sarnath-02.jpeg` | 鹿野苑考古博物館中央大廳內阿育王石柱獅子柱頭；caption：鹿野苑考古博物館中央大廳內 - 阿育王石柱獅子柱頭 |
+| gallery | 3_鹿野苑_3.jpeg | `sarnath-03.jpeg` | 鹿野苑考古遺址公園內阿育王石柱斷裂基座遺址；caption：鹿野苑考古遺址公園內 - 阿育王石柱斷裂基座遺址 |
 
-未使用照片：無。
+未使用照片：`3_鹿野苑_0.jpeg`。原因：新版 hero 與 gallery 已依指定照片呈現，版面照片數量已足夠。
 
 ## 4. 王舍城與靈鷲山｜早期弘法、竹林精舍與僧團形成
 
