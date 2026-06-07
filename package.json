@@ -1,0 +1,14 @@
+{
+  "name": "huahkwang-sacred-sites",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Huah Kwang Temple sacred sites static website visual checks.",
+  "scripts": {
+    "test:visual": "playwright test",
+    "test:visual:headed": "playwright test --headed",
+    "show-report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}

@@ -10,6 +10,19 @@ All public naming should use `Huah Kwang Temple` / `huahkwang`.
 Do not introduce alternate spellings such as `huakuang`.
 If copying the existing logo file named `huakwang-logo.svg`, keep the file name only because it is an existing asset name; do not use that spelling in visible text or new project/repo names.
 
+## Playwright layout check rules
+This is a Huah Kwang Temple static website project.
+
+- After changing HTML, CSS, or JS, prioritize running the Playwright check with `npm run test:visual`.
+- After each website change, check both desktop and mobile layout.
+- Confirm there is no horizontal overflow.
+- Confirm the browser console has no error.
+- Confirm the main navigation links are still clickable.
+- Preserve the plain, restrained, dignified website style.
+- Do not substantially refactor the website architecture unless Walter explicitly asks.
+- Do not delete existing content or images unless Walter explicitly asks.
+- After finishing changes, list which files changed and how Walter can test them.
+
 ## Work scope and safety rule
 The working directory may be the parent folder:
 
