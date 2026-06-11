@@ -52,7 +52,14 @@ a { color: inherit; }
 .hero p:last-child, .hero-content > p { max-width: 760px; margin: 22px 0 0; font-size: clamp(1.05rem, 2vw, 1.3rem); color: rgba(255,253,248,0.9); }
 .home-link-button { display: inline-flex; align-items: center; justify-content: center; min-height: 46px; margin-top: 26px; padding: 9px 18px; color: var(--color-earth-dark); background: rgba(255,253,248,0.9); border: 1px solid rgba(232,201,130,0.68); border-radius: 4px; font-weight: 700; text-decoration: none; }
 .home-link-button:hover, .home-link-button:focus-visible { color: var(--color-surface); background: var(--color-earth-dark); }
+.home-link-button:active { color: var(--color-surface); background: var(--color-earth-dark); }
 .home-link-button.dark { color: var(--color-earth-dark); }
+
+.home-link-button.dark:hover,
+.home-link-button.dark:focus-visible,
+.home-link-button.dark:active {
+  color: var(--color-surface);
+}
 .section { padding: 88px 0; }
 .intro-section { background: var(--color-surface); }
 .section h2 { margin: 0 0 20px; color: var(--color-earth-dark); line-height: 1.35; font-size: clamp(1.7rem, 3vw, 2.3rem); }
